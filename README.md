@@ -4,8 +4,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor Solution URL: [https://www.frontendmentor.io/solutions/made-using-tailwindcss-eyMz-P7Hxa](https://www.frontendmentor.io/solutions/made-using-tailwindcss-eyMz-P7Hxa)
+- Live Site URL: [https://int-profilecard.netlify.app/](https://int-profilecard.netlify.app/)
 
 ### The challenge
 
